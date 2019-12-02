@@ -59,7 +59,7 @@ export default class SingleRoom extends Component {
                         <h6>Max-capacity:{""}
                         {capacity > 1 ? `${capacity} People` : `${capacity} person`}</h6>
 
-                        {/* <h6>{pets?"pet allowed":"no pets allowed"}</h6> */}
+                        <h6>{pets?"pet allowed":"no pets allowed"}</h6>
                         <h6>{breakfast?"breakfast allowed":"breakfast pets allowed"}</h6>
                     </article>
                 </div>
