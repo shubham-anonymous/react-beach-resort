@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "babel-runtime": "^5.3.3",
-    "contentful": "^7.10.0",
+    "contentful": "^11.8.1",
     "events": "^3.0.0",
     "npm-cli": "^0.1.0",
     "prop-type": "0.0.1",
